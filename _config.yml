@@ -1,7 +1,7 @@
 # Site settings
-title: 凯哥的个人技术博客
+title: 王狗的个人技术博客
 description: >
-  这是一个纯技术博客。。。
+  我遇见了一个人，和她在一起的时候眼神都变得温柔了！
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://wangmingkai1993.github.io" # the base hostname & protocol for your site

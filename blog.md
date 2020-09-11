@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: 点滴记录
 subtitle: Select ramblings of Pudhina
 ---
 
